@@ -1,0 +1,12 @@
+{
+  "name": "comp3104---devops",
+  "version": "1.0.0",
+  "description": "- Parsa  - Majdol Hosseini",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Parsa Majdol Hosseini 101356047",
+  "license": "ISC"
+}
